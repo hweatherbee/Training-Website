@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<modules>
+  <module>
+    <dir>Module01</dir>
+    <name>Module 1</name>
+    <lecture>Lecture 1.pptx</lecture>
+    <lesson-plan>Module1_LessonPlan.docx</lesson-plan>
+  </module>
+  <module>
+    <dir>Module02</dir>
+    <name>Module 2</name>
+    <lecture>Lecture2_V2.pptx</lecture>
+    <lesson-plan>Module2_LessonPlan.docx</lesson-plan>
+    <lesson-plan>Module2_LessonPlan.pdf</lesson-plan>
+    <lab>Module2_Lab1.zip</lab>
+    <lab>Module2_Lab2_USB_Steg.zip</lab>
+    <solution>SolutionModule2_Lab2.docx</solution>
+  </module>
+  <module>
+    <dir>Module03</dir>
+    <name>Module 3</name>
+    <lecture>Lecture3_V2.pptx</lecture>
+    <lesson-plan>Module3_LessonPlan.docx</lesson-plan>
+    <lesson-plan>Module3_LessonPlan.pdf</lesson-plan>
+  </module>
+  <module>
+    <dir>Module04</dir>
+    <name>Module 4</name>
+    <lecture>Lecture4.pptx</lecture>
+    <lesson-plan>Module4_Lesson.docx</lesson-plan>
+    <lesson-plan>Module4_Lesson.pdf</lesson-plan>
+  </module>
+  <module>
+    <dir>Module05</dir>
+    <name>Module 5</name>
+    <lecture>Lecture 5.pptx</lecture>
+    <lesson-plan>Module5_LessonPlan.docx</lesson-plan>
+    <lesson-plan>Module5_LessonPlan.pdf</lesson-plan>
+  </module>
+  <module>
+    <dir>Module06</dir>
+    <name>Module 6</name>
+    <lecture>Lecture6_V2.pptx</lecture>
+    <lesson-plan>Module6_LessonPlan.docx</lesson-plan>
+    <lesson-plan>Module6_LessonPlan.pdf</lesson-plan>
+    <resources>
+      <resource>QR_Codes.zip</resource>
+      <resource>Redacted_V2.pdf</resoure>
+      <resource>LetterSample_V2.docx</resource>
+      <resource>How to Download VirtualBox_V2.docx</resouce>
+    </resources>
+  </module>
+  <module>
+    <dir>Module07</dir>
+    <name>Module 7</name>
+    <lecture>Module07_ProtectionMechanisms.pptx</lecture>
+    <lesson-plan>JSU_Module7_LessonPlan.pdf</lesson-plan>
+  </module>
+  <module>
+    <dir>Module08</dir>
+    <name>Module 8</name>
+    <lecture>Lecture8.pptx</lecture>
+    <lesson-plan>Module8_Lesson.docx</lesson-plan>
+    <lesson-plan>Module8_Lesson.pdf</lesson-plan>
+  </module>
+  <module>
+    <dir>Module09</dir>
+    <name>Module 9</name>
+    <lecture>Lecture9.pptx</lecture>
+    <lesson-plan>JSU_Module9_LessonPlan.pdf</lesson-plan>
+    <lesson-plan>Module9_Lesson.docx</lesson-plan>
+    <lesson-plan>Module9_Lesson.pdf</lesson-plan>
+  </module>
+  <module>
+    <dir>Module10</dir>
+    <name>Module 10</name>
+    <lecture>Module10_InternetOfThings.pptx</lecture>
+    <lesson-plan>JSU_Module10_LessonPlan.pdf</lesson-plan>
+  </module>
+</modules>
+<templates>
+  <template>GenCyber Lesson Plan Template</template>
+    <src>GenCyber Lesson Plan Template.docx</src>
+</templates>
