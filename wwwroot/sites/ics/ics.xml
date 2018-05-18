@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<labs>
+  <lab>
+    <id>ICS001</id>
+    <title>Getting Started and Seal-in Circuit</title>
+    <src>ICS_001_Ex1_PLC Lab_Getting Started-&amp;-Seal in Circuit.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS002</id>
+    <title>Timers-Counters</title>
+    <src>ICS_002_Ex2_PLC Lab_Timers-Counters.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS003</id>
+    <title>Traffic Light</title>
+    <src>ICS_003_Ex3_PLC Lab_Traffic Light.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS004</id>
+    <title>PLC Simulator</title>
+    <src>ICS_004_Ex4_PLC Lab_Simulator.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS005</id>
+    <title>HMI Development</title>
+    <src>ICS_005_HMI_lab.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS006</id>
+    <title>Firewall Configuration</title>
+    <src>ICS_006_FirewallConfiguration_lab.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS007</id>
+    <title>Intrusion Detection with Snort</title>
+    <src>ICS_007_SnortHandsOnProject.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS009</id>
+    <title>Wireless Networks</title>
+    <src>ICS_009_ICS Lab 1 Hacking a Wireless NetworkFINAL.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS010</id>
+    <title>Scanning and Enumerating</title>
+    <src>ICS_010_ICS Lab 2 Scanning and EnumeratingFINAL.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS011</id>
+    <title>Packet Capture and Analysis with Wireshark</title>
+    <src>ICS_011_ICS Lab 3 Packet Capture and Analysis with WiresharkFINAL.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS012</id>
+    <title>Deep Packet Analysis with Wireshark</title>
+    <src>ICS_012_ICS Lab 4 Deep Packet Analysis with WiresharkFINAL.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS013</id>
+    <title>Installing Veil-Evasion and Creating a Payload on Kali Live</title>
+    <src>ICS_013_ICS Lab 5 Installing and Using Veil_Evasion.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS014</id>
+    <title>Using SimpleHTTPServer</title>
+    <src>ICS_014_ICS Lab 6 Using SimpleHTTPServer.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS015</id>
+    <title>Exploiting a PLC Using Metasploit</title>
+    <src>ICS_015_ICS Lab 7 Exploiting A PLC Using MetasploitFINAL.docx.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS016</id>
+    <title>Exploiting an HMI Device Using Armitage</title>
+    <src>ICS_016_ICS Lab 8 Exploiting an HMI Device Using ArmitageFINAL.pdf</src>
+  </lab>
+  <lab>
+    <id>ICS017</id>
+    <title>Vulnerability Scanning with OpenVAS</title>
+    <src>ICS_017_OpenVAS_Lab.pdf</src>
+  </lab>
+</labs>
+
+<lectures>
+  <lecture>
+    <name>Kali and ICS Lab Overview</name>
+    <src>Day 1_Lab_And_Kali Overview_Greg Randall.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Control System Networks and Protocols</name>
+    <src>Day1_HandsOn_PacketCapture_And_Inspection_Greg_Randall.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Control Systems Network Penetration Testing</name>
+    <src>Day2_Reconnaissance_And_PenTesting_Greg Randall.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Firewall Configuration</name>
+    <src>FirewallConfiguration.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Getting Started</name>
+    <src>Getting Started.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Indicators of Compromise</name>
+    <src>Indicators of Compromise.pptx</src>
+  </lecture>
+  <lecture>
+    <name>PLC Communications Setup</name>
+    <src>PLC Lab_Getting Started _CommSetup.docx</src>
+  </lecture>
+  <lecture>
+    <name>PLC IP Setup</name>
+    <src>PLC Lab_Getting Started_IP.docx</src>
+  </lecture>
+  <lecture>
+    <name>Programmable Logic Controllers</name>
+    <src>PLC-Notes-Capacity.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Shodan</name>
+    <src>Shodan.pptx</src>
+  </lecture>
+  <lecture>
+    <name>Vulnerability Analysis</name>
+    <src>VulnerabilityAnalysis.ppt</src>
+  </lecture>
+</lectures>
