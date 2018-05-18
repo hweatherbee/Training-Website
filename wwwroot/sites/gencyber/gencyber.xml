@@ -45,9 +45,9 @@
     <lesson-plan>Module6_LessonPlan.pdf</lesson-plan>
     <resources>
       <resource>QR_Codes.zip</resource>
-      <resource>Redacted_V2.pdf</resoure>
+      <resource>Redacted_V2.pdf</resource>
       <resource>LetterSample_V2.docx</resource>
-      <resource>How to Download VirtualBox_V2.docx</resouce>
+      <resource>How to Download VirtualBox_V2.docx</resource>
     </resources>
   </module>
   <module>
@@ -78,7 +78,3 @@
     <lesson-plan>JSU_Module10_LessonPlan.pdf</lesson-plan>
   </module>
 </modules>
-<templates>
-  <template>GenCyber Lesson Plan Template</template>
-    <src>GenCyber Lesson Plan Template.docx</src>
-</templates>
