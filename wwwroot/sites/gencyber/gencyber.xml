@@ -3,12 +3,14 @@
   <module>
     <dir>Module01</dir>
     <name>Module 1</name>
+    <title>Introduction to Cyber Security</title>
     <lecture>Lecture 1.pptx</lecture>
     <lesson-plan>Module1_LessonPlan.docx</lesson-plan>
   </module>
   <module>
     <dir>Module02</dir>
     <name>Module 2</name>
+    <title>Digital Forensics and Steganography</title>
     <lecture>Lecture2_V2.pptx</lecture>
     <lesson-plan>Module2_LessonPlan.docx</lesson-plan>
     <lesson-plan>Module2_LessonPlan.pdf</lesson-plan>
@@ -19,6 +21,7 @@
   <module>
     <dir>Module03</dir>
     <name>Module 3</name>
+    <title>Cryptography</title>
     <lecture>Lecture3_V2.pptx</lecture>
     <lesson-plan>Module3_LessonPlan.docx</lesson-plan>
     <lesson-plan>Module3_LessonPlan.pdf</lesson-plan>
@@ -26,6 +29,7 @@
   <module>
     <dir>Module04</dir>
     <name>Module 4</name>
+    <title>Cybersecurity Student Engagement and Lesson Plan Design</title>
     <lecture>Lecture4.pptx</lecture>
     <lesson-plan>Module4_Lesson.docx</lesson-plan>
     <lesson-plan>Module4_Lesson.pdf</lesson-plan>
@@ -33,6 +37,7 @@
   <module>
     <dir>Module05</dir>
     <name>Module 5</name>
+    <title>Privacy, Intellectual Property, Laws, and Ethics</title>
     <lecture>Lecture 5.pptx</lecture>
     <lesson-plan>Module5_LessonPlan.docx</lesson-plan>
     <lesson-plan>Module5_LessonPlan.pdf</lesson-plan>
@@ -40,6 +45,7 @@
   <module>
     <dir>Module06</dir>
     <name>Module 6</name>
+    <title>Cybersecurity Challenges and Competition</title>
     <lecture>Lecture6_V2.pptx</lecture>
     <lesson-plan>Module6_LessonPlan.docx</lesson-plan>
     <lesson-plan>Module6_LessonPlan.pdf</lesson-plan>
@@ -53,12 +59,14 @@
   <module>
     <dir>Module07</dir>
     <name>Module 7</name>
+    <title>Protection Mechanisms</title>
     <lecture>Module07_ProtectionMechanisms.pptx</lecture>
     <lesson-plan>JSU_Module7_LessonPlan.pdf</lesson-plan>
   </module>
   <module>
     <dir>Module08</dir>
     <name>Module 8</name>
+    <title>Online Safety Practices and Threats</title>
     <lecture>Lecture8.pptx</lecture>
     <lesson-plan>Module8_Lesson.docx</lesson-plan>
     <lesson-plan>Module8_Lesson.pdf</lesson-plan>
@@ -66,6 +74,7 @@
   <module>
     <dir>Module09</dir>
     <name>Module 9</name>
+    <title>Vulnerability Assessment/System Hardening</title>
     <lecture>Lecture9.pptx</lecture>
     <lesson-plan>JSU_Module9_LessonPlan.pdf</lesson-plan>
     <lesson-plan>Module9_Lesson.docx</lesson-plan>
@@ -74,6 +83,7 @@
   <module>
     <dir>Module10</dir>
     <name>Module 10</name>
+    <title>The Internet of Things (IoT)</title>
     <lecture>Module10_InternetOfThings.pptx</lecture>
     <lesson-plan>JSU_Module10_LessonPlan.pdf</lesson-plan>
   </module>
