@@ -1,7 +1,6 @@
 <?php
 
 function init_modules($xml) {
-
   foreach ($xml->children() as $m) {
     new_module($m->name, $m->title);
   }
