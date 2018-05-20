@@ -38,11 +38,9 @@
 
   <center>
   <div class="row">
-    <div class="col-1"></div>
 
-      <?php init_projects($projects); ?>
+  <?php init_projects($projects); ?>
 
-    <div class="col-1"></div>
   </div>
 
   </center>
