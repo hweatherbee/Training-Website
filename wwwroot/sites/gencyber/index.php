@@ -47,7 +47,7 @@
 <?php
   function module_col($mod_title, $mod_discription) {
     echo '
-      <div class="col-2">
+      <div class="col-md-2">
         <div class="panel panel-default text-center">
 
           <div class="panel-heading">
