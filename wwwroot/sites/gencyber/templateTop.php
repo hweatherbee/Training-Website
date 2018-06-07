@@ -11,15 +11,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="module-page.css">
 
-    <style type="text/css">
-    .card{
-      margin: 10px;
-    }
-    .red{
-      background-color: #cc0000; 
-      color: white;
-    }
-  </style>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">

@@ -1,5 +1,5 @@
 <?php
-require ('../templateTop.php');
+require ('templateTop.php');
 ?>
 
 
@@ -44,8 +44,8 @@ require ('../templateTop.php');
         <div class="card-body">
           <h5 class="card-title">Lorem Ipsum</h5>
           <p class="card-text">'.$mod_discription.'</p>
-          <a href="#" class="btn btn-dark">Learn</a>
-          <a href="#" class="btn btn-dark">Hands On</a>
+          
+          <a href="#" class="btn btn-primary">View Module</a>
         </div>
       </div>
     </div>';
