@@ -11,6 +11,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="landing-page.css">
 
+
+  <?php
+  require 'project_functions.php';
+  $projects = simplexml_load_file('projects.xml') or die ('Error: Cannot create object');
+  ?>
+
 </head>
 
 <body style="background: #f1f2f3;">
@@ -33,29 +39,14 @@
   <center>
   <div class="row">
     <div class="col-1"></div>
-      <?php
-      project_col('GenCyber', 'gencyber', 'gencyber-logo.png');
-      project_col('ICS Workshop', 'ics', 'nsf-logo.png');
-      project_col('CNAP', 'cnap', 'nsa-logo.png');
-      ?>
+
+      <?php init_projects($projects); ?>
+
     <div class="col-1"></div>
   </div>
 
   </center>
 </div>
-
-<?php
-function project_col($site_name, $site_dir, $site_logo) {
-  echo '<div class="col">
-     <div class="project">
-       <a href="sites/' . $site_dir . '">
-         <img src="resources/' . $site_logo . '">
-         </a>
-         <h2>' . $site_name . '</h2>
-       </div>
-     </div>';
-}
-?>
 
 </body>
 </html>

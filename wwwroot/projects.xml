@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projects>
+  <project>
+    <name>GenCyber</name>
+    <directory>gencyber</directory>
+    <logo>gencyber-logo.png</logo>
+  </project>
+
+  <project>
+    <name>ICS Workshop</name>
+    <directory>ics</directory>
+    <logo>nsf-logo.png</logo>
+  </project>
+
+  <project>
+    <name>CNAP</name>
+    <directory>cnap</directory>
+    <logo>nsa-logo.png</logo>
+  </project>
+</projects>
