@@ -45,3 +45,38 @@ body {
     background-color: #cc0000;
     color: #fff;
 }
+.jumbotron{
+    box-shadow: -6px 3px 12px grey;
+    color: #0f366d;
+}
+.card-header{
+    background: #0f366d;
+    color: white;
+}
+.card .btn-primary{
+    background: #95d1ef;
+    border: #95d1ef;
+}
+.card{
+    margin: 5px;
+}
+
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) { ... }
+
+
+@media (max-width: 992px) { 
+	.card-header{
+		min-height: 97px;
+	}
+ }
+ @media (min-width: 993px) { 
+	.card-header{
+		min-height: 73px;
+	}
+ }
+
+
+@media (min-width: 1200px) { ... }
